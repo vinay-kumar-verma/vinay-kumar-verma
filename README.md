@@ -24,7 +24,6 @@ QA Automation Engineer at Cognizant with experience in enterprise web applicatio
 ### Featured Projects
 
 * Selenium Search Automation Framework
-* Coursera Course Finder Automation
 * Cyberbullying Threat Analysis System
 * Delivery Time Prediction System
 
