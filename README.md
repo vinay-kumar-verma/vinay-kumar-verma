@@ -1,48 +1,35 @@
 # Hi, I'm Vinay Kumar Verma 👋
 
-QA Automation Engineer at Cognizant with experience in enterprise web application testing, automation framework development, API testing and SQL validation.
+QA Automation Engineer at Cognizant with experience in enterprise web application testing, automation framework development, API testing, and SQL validation.
 
-## Current Focus
+### Tech Stack
 
-- Java Development
-- Selenium Automation
-- TestNG Frameworks
-- REST API Testing
-- Spring Boot
-- Data Structures & Algorithms
+**Languages:** Java, Python, SQL
 
-## Tech Stack
+**Automation:** Selenium, TestNG, Cucumber, Postman
 
-### Languages
-Java • Python • SQL
+**Tools:** Git, GitHub, Docker, Jenkins, Jira
 
-### Testing
-Selenium • TestNG • Cucumber • Postman
+**Databases:** Oracle SQL, PL/SQL, MySQL
 
-### Tools
-Git • GitHub • Docker • Jenkins • Jira
+**Cloud:** Google Cloud, Azure
 
-### Databases
-Oracle SQL • PL/SQL • MySQL
+### Currently Working On
 
-### Cloud
-Google Cloud • Azure
+* Automation Framework Development
+* Spring Boot Backend Projects
+* REST API Testing
+* Data Structures & Algorithms
 
-## Experience
+### Featured Projects
 
-QA Automation Engineer
-Cognizant Technology Solutions
+* Selenium Search Automation Framework
+* Coursera Course Finder Automation
+* Cyberbullying Threat Analysis System
+* Delivery Time Prediction System
 
-Working on enterprise financial applications across EMEA, US and Canada regions.
+### Connect
 
-## Certifications
+📧 [vinaykumar.verma150@gmail.com](mailto:vinaykumar.verma150@gmail.com)
 
-- Microsoft Azure AZ-104
-- Google Cloud Foundations
-- SQL using MySQL
-- Intro to GenAI and LLMs
-
-## Connect With Me
-
-LinkedIn: linkedin.com/in/vinaykumarverma-dev
-Email: vinaykumar.verma150@gmail.com
+💼 LinkedIn: linkedin.com/in/vinay-kumar-verma-979993232
