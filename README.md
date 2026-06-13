@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Vinay Kumar Verma 👋
 
-<!--
-**vinay-kumar-verma/vinay-kumar-verma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Automation Engineer at Cognizant with experience in enterprise web application testing, automation framework development, API testing and SQL validation.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java Development
+- Selenium Automation
+- TestNG Frameworks
+- REST API Testing
+- Spring Boot
+- Data Structures & Algorithms
+
+## Tech Stack
+
+### Languages
+Java • Python • SQL
+
+### Testing
+Selenium • TestNG • Cucumber • Postman
+
+### Tools
+Git • GitHub • Docker • Jenkins • Jira
+
+### Databases
+Oracle SQL • PL/SQL • MySQL
+
+### Cloud
+Google Cloud • Azure
+
+## Experience
+
+QA Automation Engineer
+Cognizant Technology Solutions
+
+Working on enterprise financial applications across EMEA, US and Canada regions.
+
+## Certifications
+
+- Microsoft Azure AZ-104
+- Google Cloud Foundations
+- SQL using MySQL
+- Intro to GenAI and LLMs
+
+## Connect With Me
+
+LinkedIn: linkedin.com/in/vinaykumarverma-dev
+Email: vinaykumar.verma150@gmail.com
