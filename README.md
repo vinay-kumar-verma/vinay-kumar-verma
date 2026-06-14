@@ -26,6 +26,8 @@ QA Automation Engineer at Cognizant with experience in enterprise web applicatio
 * Selenium Search Automation Framework
 * Cyberbullying Threat Analysis System
 * Delivery Time Prediction System
+* Desktop Interactive Pet
+* Application to find sports community near you
 
 ### Connect
 
